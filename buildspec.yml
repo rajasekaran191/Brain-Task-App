@@ -4,7 +4,7 @@ env:
   variables:
     ECR_REPO: "brain-tasks-app"
     IMAGE_TAG: "latest"
-    ACCOUNT_ID: "216989110867"
+    ACCOUNT_ID: "952499956741"
     AWS_REGION: "ap-south-1"
 
 phases:
