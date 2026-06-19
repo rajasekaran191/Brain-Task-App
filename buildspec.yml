@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPO: "brain-tasks-app"
+    ECR_REPO: "brain-task-app"
     IMAGE_TAG: "latest"
     ACCOUNT_ID: "952499956741"
     AWS_REGION: "ap-south-1"
