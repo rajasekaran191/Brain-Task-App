@@ -2,6 +2,7 @@ version: 0.2
 
 env:
   variables:
+    CLUSTER_NAME: "brain-tasks-cluster"
     ECR_REPO: "brain-task-app"
     IMAGE_TAG: "latest"
     ACCOUNT_ID: "952499956741"
